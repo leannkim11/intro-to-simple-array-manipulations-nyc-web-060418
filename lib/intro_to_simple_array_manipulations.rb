@@ -21,3 +21,7 @@ end
 def shift_with_args (arr)
   arr.shift(2)
 end
+
+def using_concat (arr,arr_two)
+  arr.concat(arr_two)
+end
