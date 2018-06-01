@@ -40,5 +40,5 @@ end
 
 def using_delete (arr,int)
   x = arr[int]
-  arr.delete(arr[int])
+  arr.delete(x)
 end
